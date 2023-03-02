@@ -1,3 +1,3 @@
-# codeforces-solutions
- codeforces solutions in c++ and java
-### codeforces account : [Anas Hamo](https://codeforces.com/profile/Anas-Hamo)
+# Codeforces-Solutions
+ Codeforces Solutions in C++ and Java
+### Codeforces account : [Anas Hamo](https://codeforces.com/profile/Anas-Hamo)
